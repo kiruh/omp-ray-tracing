@@ -1,6 +1,8 @@
 # Ray tracing
 
-Simple ray tracing implementation
+This project was created as a homework at Plovdiv University.
+
+Simple ray tracing implementation.
 
 ```bash
 $ g++ -fopenmp main.cpp # build from source
