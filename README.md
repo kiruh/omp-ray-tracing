@@ -2,7 +2,7 @@
 
 This project was created as a homework at Plovdiv University.
 
-Simple ray tracing implementation.
+Simple ray tracing implementation using OpenMP.
 
 ```bash
 $ g++ -fopenmp main.cpp # build from source
